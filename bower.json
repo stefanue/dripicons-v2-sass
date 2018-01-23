@@ -7,7 +7,8 @@
     ],
     "description": "Free set of line icons for the web based on Dripicons V2",
     "main": [
-        "./scss/style.scss"
+        "./scss/style.scss",
+        "./fonts/**"
     ],
     "keywords": [
         "dripicons",
