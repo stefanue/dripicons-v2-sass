@@ -1,0 +1,31 @@
+{
+    "name": "dripicons-v2-sass",
+    "version": "1.0.0",
+    "homepage": "https://github.com/stefanue/dripicons-v2",
+    "authors": [
+        "Stefan Vasiljevic <stefanue@gmail.com>"
+    ],
+    "description": "Free set of line icons for the web based on Dripicons V2",
+    "main": [
+        "./scss/style.scss"
+    ],
+    "keywords": [
+        "dripicons",
+        "icon",
+        "iconset",
+        "icons",
+        "free",
+        "webfont",
+        "sass",
+        "scss",
+        "font"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
