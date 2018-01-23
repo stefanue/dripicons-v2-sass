@@ -1,7 +1,7 @@
 {
     "name": "dripicons-v2-sass",
     "version": "1.0.0",
-    "homepage": "https://github.com/stefanue/dripicons-v2",
+    "homepage": "https://github.com/stefanue/dripicons-v2-sass/",
     "authors": [
         "Stefan Vasiljevic <stefanue@gmail.com>"
     ],
@@ -12,6 +12,7 @@
     ],
     "keywords": [
         "dripicons",
+        "v2",
         "icon",
         "iconset",
         "icons",
