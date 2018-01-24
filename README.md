@@ -4,7 +4,8 @@ Free set of line icons for the web, based on [Dripicons V2](http://demo.amitjakh
 
 ## How to install?
 
-Run the command `bower install dripicons-v2-sass` 
+Run the command `bower install dripicons-v2-sass`
+
 Or if you want to save it to your local bower file run `bower install dripicons-v2-sass --save` 
 
 ## Issues
